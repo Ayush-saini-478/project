@@ -319,7 +319,7 @@
 /* Media queries for smaller devices */
 @media (max-width: 480px) {
   .main_box {
-    height: 100vh;
+    height: 110vh;
     background-size: cover;
     background-position: center;
   }
