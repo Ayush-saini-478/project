@@ -186,7 +186,7 @@
     .para h1{
        color: white;
         margin-left: 70px;
-        
+        line-height: 2;
        
 
        
@@ -319,7 +319,7 @@
 /* Media queries for smaller devices */
 @media (max-width: 480px) {
   .main_box {
-    height: 780px;
+    height: 800px;
     background-size: cover;
     background-position: center;
   }
