@@ -1,5 +1,6 @@
 * {
   margin: 0;
+  padding: 0;
 
   
   font-family: sans-serif;
@@ -324,7 +325,7 @@ a {
 .card:hover {
   opacity: 1;
   background-color: rgb(147, 167, 167);
-  border: 1px solid blue;
+  border: 2px solid blue;
 
 }
 
